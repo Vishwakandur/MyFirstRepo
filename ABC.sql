@@ -1,1 +1,1 @@
-select * from emplyee
+select * from emplyee1
